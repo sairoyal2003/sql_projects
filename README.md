@@ -1,2 +1,2 @@
 # sql_projects
-this includes sql projects
+this includes sql projects.
